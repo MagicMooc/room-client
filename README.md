@@ -10,6 +10,18 @@
 
 ## 功能演示视频：[视频](https://bytedancecampus1.feishu.cn/minutes/obcngeuwo1q656k7m62915rh)
 
+## 经纪人子系统链接：[https://roomadmin.magicmooc.top](https://roomadmin.magicmooc.top)
+
+### 测试账号: admin1(仅此账号拥有所有房产)
+### 测试密码: admin1
+
+## 展示子系统链接：[https://roomclient.magicmooc.top](https://roomclient.magicmooc.top)
+
+### 测试账号: MagicMooc
+### 测试密码: asdzxc
+
+
+
 ### 🚀 Technologies
 - ui库：semi
 - react: 17.0.2
